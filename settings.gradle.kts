@@ -1,1 +1,1 @@
-rootProject.name = "com.plcoding.socialnetworktwitch"
+rootProject.name = "com.twitter.socialnetwork"
