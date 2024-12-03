@@ -6,7 +6,6 @@ import io.ktor.application.*
 
 fun Application.configureSerialization() {
     install(ContentNegotiation) {
-        gson {
-            }
+        gson { }
     }
 }
